@@ -55,7 +55,7 @@ struct ContentView: View {
 
     private func colorFor(_ button: CalculatorButton) -> Color {
         switch button.backgroundColor {
-        case "orange": return .orange
+        case "red": return .red
         case "lightGray": return Color(white: 0.7)
         default: return Color(white: 0.2)
         }

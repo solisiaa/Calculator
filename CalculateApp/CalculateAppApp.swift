@@ -1,10 +1,3 @@
-//
-//  CalculateAppApp.swift
-//  CalculateApp
-//
-//  Created by Ангелина Щербова on 16.09.2026.
-//
-
 import SwiftUI
 
 @main
